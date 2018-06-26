@@ -2,6 +2,9 @@
 
 This script was made to create a time refresher for lm-sensors to keep an updated info on sensors
 
+
+### Troubleshooting
+
 if this doesnt work try running installer.py
 
 or if that doesnt work do it the manual way:
